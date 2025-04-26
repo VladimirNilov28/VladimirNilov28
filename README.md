@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Vladimir Nilov</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladimirNilov28&show_icons=true&hide_border=true&theme=radical&card_width=1000" alt="Vladimir's GitHub Stats">
+</p>
 
 <p align="center">
   Java Developer | Spring Boot Enthusiast | Student at <a href="https://kood.tech/" target="_blank">kood/Jõhvi</a>
@@ -34,6 +36,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladimirNilov28&show_icons=true&hide_border=true&theme=radical&card_width=1000" alt="Vladimir's GitHub Stats">
-</p>
+

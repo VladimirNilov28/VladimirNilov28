@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vladimir Nilov</h1>
 
 <p align="center">
-  Java Developer | Spring Boot Enthusiast | Student at [kood/Jõhvi](https://kood.tech/)
+  Java Developer | Spring Boot Enthusiast | Student at <a href="https://kood.tech/" target="_blank">kood/Jõhvi</a>
 </p>
 
 ---

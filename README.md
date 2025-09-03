@@ -7,9 +7,9 @@
 ## About Me
 
 - 🎓 Student at [kood/Jõhvi](https://kood.tech/), passionate about backend development.
-- 💻 Skilled in **Java 17**, **Spring Boot**, **MySQL**, **REST APIs**, and **Postman**.
+- 💻 Skilled in **Java 17**, **Spring Boot**, **Kafka**, **gRPC**, and **TelegramAPI**.
 - 📚 Constantly improving my skills through personal projects and learning challenges.
-- 🛠️ Technologies I work with: Java, Spring Boot, SQL, Maven, Git, Linux.
+- 🛠️ Technologies I work with: Java, Spring Boot, SQL, Maven, Kakfka/gRPC, Linux.
 - 🕹️ In free time, I enjoy playing **CS2** and **Overwatch**.
 - 🎶 Producing electronic music — check out my tracks on [SoundCloud](https://soundcloud.com/dj_mirlov/popular-tracks).
 

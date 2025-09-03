@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎓 Student at [kood/Jõhvi](https://kood.tech/), passionate about backend development.
-- 💻 Skilled in **Java 17**, **Spring Boot**, **Kafka**, **gRPC**, and **TelegramAPI**.
+- 💻 Skilled in **Java 21**, **Spring Boot**, **Kafka**, **gRPC**, and **TelegramAPI**.
 - 📚 Constantly improving my skills through personal projects and learning challenges.
 - 🛠️ Technologies I work with: Java, Spring Boot, SQL, Maven, Kakfka/gRPC, Linux.
 - 🕹️ In free time, I enjoy playing **CS2** and **Overwatch**.

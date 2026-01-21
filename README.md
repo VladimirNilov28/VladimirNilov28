@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VladimirNilov28&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&cache_seconds=86400" />
 </p>
 
-<h2 align="center">Vladimir Nilov</h2>
+<!-- <h2 align="center">Vladimir Nilov</h2>
 
 <p align="center">
   Java Developer | Spring Boot Enthusiast | Student at
@@ -18,5 +18,5 @@
 - 🛠️ Technologies I work with: Java, Spring Boot, Socket.io, Maven/Gradle, JavaScript, Linux.
 - 🕹️ In free time, I enjoy playing **CS2** and **Overwatch**.
 - 🎶 Producing electronic music — check out my tracks on [SoundCloud](https://soundcloud.com/dj_mirlov/popular-tracks).
-
+ -->
 

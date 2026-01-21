@@ -9,6 +9,7 @@
   <a href="https://kood.tech/" target="_blank">kood/Jõhvi</a>
 </p>
 
+
 ## About Me
 
 - 🎓 Student at [kood/Jõhvi](https://kood.tech/), passionate about backend development.
